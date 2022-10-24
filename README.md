@@ -6,6 +6,6 @@
 
  This is another paragraph.
  
- ## More details:
- -  First
- -  Second
+ ## More details
+  -  First
+  -  Second
